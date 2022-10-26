@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<a href="https://github.com/ossamamehmood/Hacktoberfest2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2022" />
+<a href="https://github.com/yogatomy/Hacktoberfest2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yogatomy/Hacktoberfest2022" />
 </a>
   
   </div>
@@ -114,6 +114,6 @@ To get approval of the pull request much quicker and faster (`Follow Me`)🚀
 '''
 ```
 
-<tr><td align="center"><a href="https://github.com/ossamamehmood"><kbd><img src="https://avatars3.githubusercontent.com/ossamamehmood?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Ossama Mehmood</b></sub></a><br /></td>
+<tr><td align="center"><a href="https://github.com/yogatomy"><kbd><img src="https://avatars3.githubusercontent.com/yogatomy?size=100" width="100px;" alt=""/></kbd><br /><sub><b>yogatomy</b></sub></a><br /></td>
 
 </tr>
